@@ -1,0 +1,16 @@
+Basic XboxOne Controller
+LX	Left Stick X	3	SLIDER	x	0	1.0	0.0
+LY	Left Stick Y	3	SLIDER	y	0	1.0	0.0
+RX	Right Stick X	3	SLIDER	z	0	1.0	0.0
+RY	Right Stick Y	3	SLIDER	rz	0	1.0	0.0
+A	A Button	1	BUTTON	0	0	0.0	0.0
+B	B Button	1	BUTTON	1	0	0.0	0.0
+X	X Button	1	BUTTON	2	0	0.0	0.0
+Y	Y Button	1	BUTTON	3	0	0.0	0.0
+LB	Left Bumper	1	BUTTON	4	0	0.0	0.0
+RB	Right Bumper	1	BUTTON	5	0	0.0	0.0
+SELECT	Selectbtn	1	BUTTON	6	0	0.0	0.0
+START	Startbtn	1	BUTTON	7	0	0.0	0.0
+LCLICK	Left Press	1	BUTTON	8	0	0.0	0.0
+RCLICK	Right Press	1	BUTTON	9	0	0.0	0.0
+HAT	D-Padfix	2	HAT	cooliehat: pov	0	1.0	0.0
